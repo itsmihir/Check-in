@@ -1,0 +1,13 @@
+#mapid
+{
+    margin-top: 0;
+    height: 580px;
+}
+button
+{
+    width:100%;
+    padding: 20px;
+    background-color: black;
+    color: yellowgreen;
+    font-size: 30px;
+}
