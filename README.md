@@ -1,3 +1,3 @@
 # Check-in
 
-just a simple website were you can check in the place you have been
+just a simple website where you can check in the places you have been
